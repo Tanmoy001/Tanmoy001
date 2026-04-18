@@ -4,7 +4,7 @@
 
 # 👾 Tanmoy Chowdhury
 
-### Web3 Developer · AI Enthusiast · Builder
+### Building CIME
 
 <img src="https://komarev.com/ghpvc/?username=tanmoy001&label=Profile%20views&color=blueviolet&style=flat-square" alt="tanmoy001" />
 &nbsp;
