@@ -1,4 +1,4 @@
-![logo](https://github.com/Tanmoy001/Tanmoy001/blob/main/1995485.gif)
+![logo]([https://github.com/Tanmoy001/Tanmoy001/blob/main/1995485.gif](https://github.com/Tanmoy001/Tanmoy001/blob/main/photo_2026-04-20_10-13-17.jpg))
 
 <div align="center">
 
